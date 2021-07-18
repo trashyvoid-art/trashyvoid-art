@@ -1,0 +1,5 @@
+- 👋 I’m Nasr, aka @_tempvoid on twitter
+- 👀 I’m interested in learning C#
+- 🌱 I’m currently learning C# and game art
+- 💞️ I’m looking to collaborate on games
+- 📫 Reach me on twitter!
